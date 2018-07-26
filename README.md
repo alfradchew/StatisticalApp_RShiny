@@ -57,7 +57,7 @@ It is likely due to the fact that you are using a 64-bit OS and R version but do
 
 Alternatively, the app can be directly accessed from [here](https://alfrad92.shinyapps.io/statistical_app/). However, it should be noted that it is much faster running the app on your local machine.
 
-To begin, load the file "simulated_data.xlsx" in the "Statistical_App" folder onto the app.
+To begin, load the file "simulated data.xlsx" in the "Statistical_App" folder onto the app.
 
 ### 2 OVERVIEW 
 ---------------------
