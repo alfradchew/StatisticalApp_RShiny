@@ -197,4 +197,4 @@ Select __"Display only significant variables "__ to remove text labels for insig
 
 ### CREDITS
 ---------------------
-This app is created by [Alfrad Chew](https://sg.linkedin.com/in/alfrad-chew-39809a151), who graduated from the National University of Singapore with a Bachelor of Science (B.Sc) with Honours (Distinction), majoring in Statistics and Economics. Alfrad can also be contacted at alfrad.chew@u.nus.edu.
+This app is created by [Alfrad Chew](https://www.linkedin.com/in/alfradchew), who graduated from the National University of Singapore with a Bachelor of Science (B.Sc) with Honours (Distinction), majoring in Statistics and Economics. Alfrad can also be contacted at alfrad.chew@u.nus.edu.
